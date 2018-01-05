@@ -1,5 +1,5 @@
 
-var b = false;;
+var b = false;
 
 if(b)
 {
